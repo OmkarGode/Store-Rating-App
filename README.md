@@ -87,11 +87,10 @@ export default defineConfig([
 ```
 
 
-Demo id and password for login :
-
+# Demo Id and Password for login :
 User:  user@gmail.com   
 Owner: owner@gmail.com
 Admin: admin@gmail.com
 
-Password : Pass@123  same for all 
+Password : Pass@123  (same for all) 
 
